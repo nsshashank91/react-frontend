@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const EMPLOYEE_API_BASE_URL = "http://backendspring-env.eba-uyeizbpg.us-east-1.elasticbeanstalk.com/api/v1/employees";
+const EMPLOYEE_API_BASE_URL = "https://spring.nixstock.in/api/v1/employees";
 
 class EmployeeService {
 
